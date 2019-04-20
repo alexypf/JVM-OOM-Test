@@ -15,3 +15,5 @@ to test git rebase on branch1
 pushed 2 in branch1;
 
 git fetch -a and then git rebase origin/master on branch2
+
+test branch ahead of origin/branch x commits
