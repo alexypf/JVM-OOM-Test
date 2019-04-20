@@ -8,3 +8,5 @@ set vm argument as:
 pushed in branch1;
 
 pushed 2 in branch1;
+
+to test git rebase on branch1
